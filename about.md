@@ -18,13 +18,6 @@ title: 关于我
 <p> 
 Java Web开发，喜欢搞算法和大数据，积极拥抱新技术，华为无线高级软件工程师
 <p>
-生平最自豪的事情：被任正非点名表扬过
+  前端还算比较熟，Python搞过一阵机器学习
 <p>
-<p>
-前端还算比较熟，Python搞过一阵机器学习
-<p>
-<a target="_blank" href="http://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent"> Huawei </a>
-不只是一个手机公司哦 ^_^
-<p>
-{% include comments.html %}
 

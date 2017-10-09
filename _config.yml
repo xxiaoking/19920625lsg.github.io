@@ -1,7 +1,7 @@
 # Basic
 title: 梁山广
 subtitle: 博客
-description: 梁山广的个人空间~
+description: Where the desert end,The grass grow
 # 头像里面的标题
 avatarTitle: 梁山广
 # 头像里面的描述
@@ -9,9 +9,9 @@ avatarDesc: Java Web/大数据
 url: "http://19920625lsg.github.io"
 
 # Comment
-comment:
-    disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+#comment:
+#    disqus: leopard
+#    # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
@@ -22,14 +22,14 @@ social:
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+#baidu:
+#    id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+#ga:
+#    id: UA-84134159-3   
+#    host: auto  
 
 permalink: /:year/:month/:title/
 # Format

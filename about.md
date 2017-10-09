@@ -2,52 +2,41 @@
 layout: page
 title: 关于我 
 ---
-
-一个 iOS SDK 开发者，喜欢研究一些新技术。
-<p>
-平时喜欢整理个人博客，逛逛技术论坛。
-<p>
-了解一些 前端 基本概念和 Python 的简单用法。
+<h3> 个人信息 </h3>  
 
 <p>
 
-所在公司
-<a target="_blank" href="https://www.talkingdata.com/"> TalkingData </a>
-是一个移动互联网大数据平台的公司，无论你是运营、产品、开发 或者是App终端用户都可以了解下我们公司。
-<p>
-
-推荐一个我维护的 Team 博客
-<a target="_blank" href="http://talkingdata.me/"> voyagelab </a>
-里面有一些关于 iOS 、Android 和 机器学习 的文章。
+姓名：梁山广
 
 <p>
 
-<h3> 我们的博客 </h3>  
+性别：男
 
 <p>
 
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
-
-<p>
-
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
+生日：1992-06-25 
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+学习经历：山东大学2012级-自动化-卓越工程师班
 
 <p> 
 
 <p> 
 
 <p> 
+<h3> 工作经历 </h3>
+Java Web开发，喜欢搞算法和大数据，积极拥抱新技术，华为无线高级软件工程师
+<p>
+生平最自豪的事情：被任正非点名表扬过
+<p>
+前端还算比较熟，Python搞过一阵机器学习
 
+<p>
+
+<a target="_blank" href="https://www.huawei.com/"> Huawei </a>
+不只是一个手机公司哦 ^_^
+<p>
 
 {% include comments.html %}
 

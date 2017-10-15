@@ -3,9 +3,9 @@ title: 金晓孝
 subtitle: 博客
 description: 绳锯木断，水滴石穿
 # 头像里面的标题
-avatarTitle: 梁山广
+avatarTitle: 金晓孝
 # 头像里面的描述
-avatarDesc: Java Web/大数据
+avatarDesc: Java Web/Ruby
 url: "http://xxiaoking.github.io"
 cname: "http://xxiaoking.top"
 
@@ -17,7 +17,7 @@ cname: "http://xxiaoking.top"
 # Social
 social:
     weibo: u/5365019329
-    github: 19920625lsg
+    github: xxiaoking
     # twitter: 
     mail: liangshanguang2@gmail.com
 
